@@ -1,0 +1,1 @@
+npm i --save-dev stylelint stylelint-declaration-block-no-ignored-properties stylelint-order stylelint-scss
