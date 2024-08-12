@@ -1,1 +1,1 @@
-npm i --save-dev stylelint stylelint-order stylelint-config-standard-scss
+npm i --save-dev stylelint stylelint-order stylelint-config-standard-scss@13.1.0
